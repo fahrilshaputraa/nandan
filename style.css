@@ -1,0 +1,7 @@
+.about .link a i {
+  color: black;
+}
+
+.about .link a:hover i {
+  color: #ffc107;
+}
